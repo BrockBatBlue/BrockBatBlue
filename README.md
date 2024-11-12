@@ -5,6 +5,6 @@ I'm a certified full stack web developer, scrum product owner, and game develope
 - 🔭 I’m currently working on a 3D sticky note app using React Three Fiber. 
 - 🌱 I’m currently learning React Three Fiber
 - 😄 Pronouns: they/them
-- ⭐ Languages and technologies: JavaScript, HTML, SQL, SCSS, Tailwind, Flexbox, React, VS Code, React Three Fiber, Threejs
+- ⭐ Languages and technologies: JavaScript, HTML, SQL, SCSS, Tailwind, Flexbox, React, React Three Fiber, Threejs
 
 
